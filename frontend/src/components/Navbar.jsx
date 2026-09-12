@@ -16,7 +16,7 @@ const Navbar = ({ onMenuClick, title }) => {
         </div>
       </div>
 
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-5">
         <button className="text-gray-400 hover:text-gray-600">
           <Bell className="w-5 h-5" />
         </button>
